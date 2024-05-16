@@ -1,0 +1,18 @@
+.container-fluid{
+    background: #F7EFED;
+
+}
+.heading{
+   text-align: center;
+font-size: 70px; 
+
+}
+p{
+    text-align: center;
+    font-size: 30px ;
+    margin: 35px;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
